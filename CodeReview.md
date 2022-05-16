@@ -13,3 +13,7 @@
 
 1. Null pointers check
 2. 
+
+## Various things
+
+1. Comments
